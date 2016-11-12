@@ -1,0 +1,643 @@
+{"results":[
+ {
+   "Periodo": 2007,
+   "Entidad_Federativa": "Aguascalientes",
+   "Tasa_de_ocupación_infantil": 10.6
+ },
+ {
+   "Periodo": 2007,
+   "Entidad_Federativa": "Baja California",
+   "Tasa_de_ocupación_infantil": 8.2
+ },
+ {
+   "Periodo": 2007,
+   "Entidad_Federativa": "Baja California Sur",
+   "Tasa_de_ocupación_infantil": 8.77
+ },
+ {
+   "Periodo": 2007,
+   "Entidad_Federativa": "Campeche",
+   "Tasa_de_ocupación_infantil": 13.35
+ },
+ {
+   "Periodo": 2007,
+   "Entidad_Federativa": "Coahuila",
+   "Tasa_de_ocupación_infantil": 10.94
+ },
+ {
+   "Periodo": 2007,
+   "Entidad_Federativa": "Colima",
+   "Tasa_de_ocupación_infantil": 14.43
+ },
+ {
+   "Periodo": 2007,
+   "Entidad_Federativa": "Chiapas",
+   "Tasa_de_ocupación_infantil": 14.1
+ },
+ {
+   "Periodo": 2007,
+   "Entidad_Federativa": "Chihuahua",
+   "Tasa_de_ocupación_infantil": 8.48
+ },
+ {
+   "Periodo": 2007,
+   "Entidad_Federativa": "Distrito Federal",
+   "Tasa_de_ocupación_infantil": 6
+ },
+ {
+   "Periodo": 2007,
+   "Entidad_Federativa": "Durango",
+   "Tasa_de_ocupación_infantil": 10.39
+ },
+ {
+   "Periodo": 2007,
+   "Entidad_Federativa": "Guanajuato",
+   "Tasa_de_ocupación_infantil": 13.66
+ },
+ {
+   "Periodo": 2007,
+   "Entidad_Federativa": "Guerrero",
+   "Tasa_de_ocupación_infantil": 20.02
+ },
+ {
+   "Periodo": 2007,
+   "Entidad_Federativa": "Hidalgo",
+   "Tasa_de_ocupación_infantil": 14.57
+ },
+ {
+   "Periodo": 2007,
+   "Entidad_Federativa": "Jalisco",
+   "Tasa_de_ocupación_infantil": 15.53
+ },
+ {
+   "Periodo": 2007,
+   "Entidad_Federativa": "Mexico",
+   "Tasa_de_ocupación_infantil": 8.02
+ },
+ {
+   "Periodo": 2007,
+   "Entidad_Federativa": "Michoacan",
+   "Tasa_de_ocupación_infantil": 18.36
+ },
+ {
+   "Periodo": 2007,
+   "Entidad_Federativa": "Morelos",
+   "Tasa_de_ocupación_infantil": 14.08
+ },
+ {
+   "Periodo": 2007,
+   "Entidad_Federativa": "Nayarit",
+   "Tasa_de_ocupación_infantil": 17.33
+ },
+ {
+   "Periodo": 2007,
+   "Entidad_Federativa": "Nuevo Leon",
+   "Tasa_de_ocupación_infantil": 10.02
+ },
+ {
+   "Periodo": 2007,
+   "Entidad_Federativa": "Oaxaca",
+   "Tasa_de_ocupación_infantil": 17.61
+ },
+ {
+   "Periodo": 2007,
+   "Entidad_Federativa": "Puebla",
+   "Tasa_de_ocupación_infantil": 17.43
+ },
+ {
+   "Periodo": 2007,
+   "Entidad_Federativa": "Queretaro",
+   "Tasa_de_ocupación_infantil": 11.01
+ },
+ {
+   "Periodo": 2007,
+   "Entidad_Federativa": "Quintana Roo",
+   "Tasa_de_ocupación_infantil": 16.32
+ },
+ {
+   "Periodo": 2007,
+   "Entidad_Federativa": "San Luis Potosi",
+   "Tasa_de_ocupación_infantil": 15.98
+ },
+ {
+   "Periodo": 2007,
+   "Entidad_Federativa": "Sinaloa",
+   "Tasa_de_ocupación_infantil": 14.96
+ },
+ {
+   "Periodo": 2007,
+   "Entidad_Federativa": "Sonora",
+   "Tasa_de_ocupación_infantil": 6.87
+ },
+ {
+   "Periodo": 2007,
+   "Entidad_Federativa": "Tabasco",
+   "Tasa_de_ocupación_infantil": 16.48
+ },
+ {
+   "Periodo": 2007,
+   "Entidad_Federativa": "Tamaulipas",
+   "Tasa_de_ocupación_infantil": 10.77
+ },
+ {
+   "Periodo": 2007,
+   "Entidad_Federativa": "Tlaxcala",
+   "Tasa_de_ocupación_infantil": 11.22
+ },
+ {
+   "Periodo": 2007,
+   "Entidad_Federativa": "Veracruz",
+   "Tasa_de_ocupación_infantil": 11.19
+ },
+ {
+   "Periodo": 2007,
+   "Entidad_Federativa": "Yucatan",
+   "Tasa_de_ocupación_infantil": 13.37
+ },
+ {
+   "Periodo": 2007,
+   "Entidad_Federativa": "Zacatecas",
+   "Tasa_de_ocupación_infantil": 18.04
+ },
+ {
+   "Periodo": 2009,
+   "Entidad_Federativa": "Aguascalientes",
+   "Tasa_de_ocupación_infantil": 8.06
+ },
+ {
+   "Periodo": 2009,
+   "Entidad_Federativa": "Baja California",
+   "Tasa_de_ocupación_infantil": 5.66
+ },
+ {
+   "Periodo": 2009,
+   "Entidad_Federativa": "Baja California Sur",
+   "Tasa_de_ocupación_infantil": 8.28
+ },
+ {
+   "Periodo": 2009,
+   "Entidad_Federativa": "Campeche",
+   "Tasa_de_ocupación_infantil": 13.91
+ },
+ {
+   "Periodo": 2009,
+   "Entidad_Federativa": "Coahuila",
+   "Tasa_de_ocupación_infantil": 7.87
+ },
+ {
+   "Periodo": 2009,
+   "Entidad_Federativa": "Colima",
+   "Tasa_de_ocupación_infantil": 16.09
+ },
+ {
+   "Periodo": 2009,
+   "Entidad_Federativa": "Chiapas",
+   "Tasa_de_ocupación_infantil": 14.44
+ },
+ {
+   "Periodo": 2009,
+   "Entidad_Federativa": "Chihuahua",
+   "Tasa_de_ocupación_infantil": 3.39
+ },
+ {
+   "Periodo": 2009,
+   "Entidad_Federativa": "Distrito Federal",
+   "Tasa_de_ocupación_infantil": 5.29
+ },
+ {
+   "Periodo": 2009,
+   "Entidad_Federativa": "Durango",
+   "Tasa_de_ocupación_infantil": 9.05
+ },
+ {
+   "Periodo": 2009,
+   "Entidad_Federativa": "Guanajuato",
+   "Tasa_de_ocupación_infantil": 13.09
+ },
+ {
+   "Periodo": 2009,
+   "Entidad_Federativa": "Guerrero",
+   "Tasa_de_ocupación_infantil": 17.76
+ },
+ {
+   "Periodo": 2009,
+   "Entidad_Federativa": "Hidalgo",
+   "Tasa_de_ocupación_infantil": 10.2
+ },
+ {
+   "Periodo": 2009,
+   "Entidad_Federativa": "Jalisco",
+   "Tasa_de_ocupación_infantil": 13.34
+ },
+ {
+   "Periodo": 2009,
+   "Entidad_Federativa": "Mexico",
+   "Tasa_de_ocupación_infantil": 7.48
+ },
+ {
+   "Periodo": 2009,
+   "Entidad_Federativa": "Michoacan",
+   "Tasa_de_ocupación_infantil": 15
+ },
+ {
+   "Periodo": 2009,
+   "Entidad_Federativa": "Morelos",
+   "Tasa_de_ocupación_infantil": 9.57
+ },
+ {
+   "Periodo": 2009,
+   "Entidad_Federativa": "Nayarit",
+   "Tasa_de_ocupación_infantil": 16.64
+ },
+ {
+   "Periodo": 2009,
+   "Entidad_Federativa": "Nuevo Leon",
+   "Tasa_de_ocupación_infantil": 8.72
+ },
+ {
+   "Periodo": 2009,
+   "Entidad_Federativa": "Oaxaca",
+   "Tasa_de_ocupación_infantil": 14.96
+ },
+ {
+   "Periodo": 2009,
+   "Entidad_Federativa": "Puebla",
+   "Tasa_de_ocupación_infantil": 15.38
+ },
+ {
+   "Periodo": 2009,
+   "Entidad_Federativa": "Queretaro",
+   "Tasa_de_ocupación_infantil": 7.24
+ },
+ {
+   "Periodo": 2009,
+   "Entidad_Federativa": "Quintana Roo",
+   "Tasa_de_ocupación_infantil": 13.67
+ },
+ {
+   "Periodo": 2009,
+   "Entidad_Federativa": "San Luis Potosi",
+   "Tasa_de_ocupación_infantil": 10.02
+ },
+ {
+   "Periodo": 2009,
+   "Entidad_Federativa": "Sinaloa",
+   "Tasa_de_ocupación_infantil": 14.7
+ },
+ {
+   "Periodo": 2009,
+   "Entidad_Federativa": "Sonora",
+   "Tasa_de_ocupación_infantil": 6.89
+ },
+ {
+   "Periodo": 2009,
+   "Entidad_Federativa": "Tabasco",
+   "Tasa_de_ocupación_infantil": 11.48
+ },
+ {
+   "Periodo": 2009,
+   "Entidad_Federativa": "Tamaulipas",
+   "Tasa_de_ocupación_infantil": 9.26
+ },
+ {
+   "Periodo": 2009,
+   "Entidad_Federativa": "Tlaxcala",
+   "Tasa_de_ocupación_infantil": 9.75
+ },
+ {
+   "Periodo": 2009,
+   "Entidad_Federativa": "Veracruz",
+   "Tasa_de_ocupación_infantil": 11.06
+ },
+ {
+   "Periodo": 2009,
+   "Entidad_Federativa": "Yucatan",
+   "Tasa_de_ocupación_infantil": 12.43
+ },
+ {
+   "Periodo": 2009,
+   "Entidad_Federativa": "Zacatecas",
+   "Tasa_de_ocupación_infantil": 16.36
+ },
+ {
+   "Periodo": 2011,
+   "Entidad_Federativa": "Aguascalientes",
+   "Tasa_de_ocupación_infantil": 7.93
+ },
+ {
+   "Periodo": 2011,
+   "Entidad_Federativa": "Baja California",
+   "Tasa_de_ocupación_infantil": 8.16
+ },
+ {
+   "Periodo": 2011,
+   "Entidad_Federativa": "Baja California Sur",
+   "Tasa_de_ocupación_infantil": 9.08
+ },
+ {
+   "Periodo": 2011,
+   "Entidad_Federativa": "Campeche",
+   "Tasa_de_ocupación_infantil": 12.53
+ },
+ {
+   "Periodo": 2011,
+   "Entidad_Federativa": "Coahuila",
+   "Tasa_de_ocupación_infantil": 9.68
+ },
+ {
+   "Periodo": 2011,
+   "Entidad_Federativa": "Colima",
+   "Tasa_de_ocupación_infantil": 16.04
+ },
+ {
+   "Periodo": 2011,
+   "Entidad_Federativa": "Chiapas",
+   "Tasa_de_ocupación_infantil": 13.37
+ },
+ {
+   "Periodo": 2011,
+   "Entidad_Federativa": "Chihuahua",
+   "Tasa_de_ocupación_infantil": 4.03
+ },
+ {
+   "Periodo": 2011,
+   "Entidad_Federativa": "Distrito Federal",
+   "Tasa_de_ocupación_infantil": 6.31
+ },
+ {
+   "Periodo": 2011,
+   "Entidad_Federativa": "Durango",
+   "Tasa_de_ocupación_infantil": 10.27
+ },
+ {
+   "Periodo": 2011,
+   "Entidad_Federativa": "Guanajuato",
+   "Tasa_de_ocupación_infantil": 13.36
+ },
+ {
+   "Periodo": 2011,
+   "Entidad_Federativa": "Guerrero",
+   "Tasa_de_ocupación_infantil": 21.12
+ },
+ {
+   "Periodo": 2011,
+   "Entidad_Federativa": "Hidalgo",
+   "Tasa_de_ocupación_infantil": 10.28
+ },
+ {
+   "Periodo": 2011,
+   "Entidad_Federativa": "Jalisco",
+   "Tasa_de_ocupación_infantil": 13.07
+ },
+ {
+   "Periodo": 2011,
+   "Entidad_Federativa": "Mexico",
+   "Tasa_de_ocupación_infantil": 7.34
+ },
+ {
+   "Periodo": 2011,
+   "Entidad_Federativa": "Michoacan",
+   "Tasa_de_ocupación_infantil": 15.47
+ },
+ {
+   "Periodo": 2011,
+   "Entidad_Federativa": "Morelos",
+   "Tasa_de_ocupación_infantil": 9.53
+ },
+ {
+   "Periodo": 2011,
+   "Entidad_Federativa": "Nayarit",
+   "Tasa_de_ocupación_infantil": 14.8
+ },
+ {
+   "Periodo": 2011,
+   "Entidad_Federativa": "Nuevo Leon",
+   "Tasa_de_ocupación_infantil": 7.91
+ },
+ {
+   "Periodo": 2011,
+   "Entidad_Federativa": "Oaxaca",
+   "Tasa_de_ocupación_infantil": 15.04
+ },
+ {
+   "Periodo": 2011,
+   "Entidad_Federativa": "Puebla",
+   "Tasa_de_ocupación_infantil": 14.57
+ },
+ {
+   "Periodo": 2011,
+   "Entidad_Federativa": "Queretaro",
+   "Tasa_de_ocupación_infantil": 5.81
+ },
+ {
+   "Periodo": 2011,
+   "Entidad_Federativa": "Quintana Roo",
+   "Tasa_de_ocupación_infantil": 9.49
+ },
+ {
+   "Periodo": 2011,
+   "Entidad_Federativa": "San Luis Potosi",
+   "Tasa_de_ocupación_infantil": 7.85
+ },
+ {
+   "Periodo": 2011,
+   "Entidad_Federativa": "Sinaloa",
+   "Tasa_de_ocupación_infantil": 12.47
+ },
+ {
+   "Periodo": 2011,
+   "Entidad_Federativa": "Sonora",
+   "Tasa_de_ocupación_infantil": 7
+ },
+ {
+   "Periodo": 2011,
+   "Entidad_Federativa": "Tabasco",
+   "Tasa_de_ocupación_infantil": 10.75
+ },
+ {
+   "Periodo": 2011,
+   "Entidad_Federativa": "Tamaulipas",
+   "Tasa_de_ocupación_infantil": 8.88
+ },
+ {
+   "Periodo": 2011,
+   "Entidad_Federativa": "Tlaxcala",
+   "Tasa_de_ocupación_infantil": 9.58
+ },
+ {
+   "Periodo": 2011,
+   "Entidad_Federativa": "Veracruz",
+   "Tasa_de_ocupación_infantil": 7.25
+ },
+ {
+   "Periodo": 2011,
+   "Entidad_Federativa": "Yucatan",
+   "Tasa_de_ocupación_infantil": 10.52
+ },
+ {
+   "Periodo": 2011,
+   "Entidad_Federativa": "Zacatecas",
+   "Tasa_de_ocupación_infantil": 13.19
+ },
+ {
+   "Periodo": 2013,
+   "Entidad_Federativa": "Aguascalientes",
+   "Tasa_de_ocupación_infantil": 6.69
+ },
+ {
+   "Periodo": 2013,
+   "Entidad_Federativa": "Baja California",
+   "Tasa_de_ocupación_infantil": 4.5
+ },
+ {
+   "Periodo": 2013,
+   "Entidad_Federativa": "Baja California Sur",
+   "Tasa_de_ocupación_infantil": 6.25
+ },
+ {
+   "Periodo": 2013,
+   "Entidad_Federativa": "Campeche",
+   "Tasa_de_ocupación_infantil": 10.9
+ },
+ {
+   "Periodo": 2013,
+   "Entidad_Federativa": "Coahuila",
+   "Tasa_de_ocupación_infantil": 7.4
+ },
+ {
+   "Periodo": 2013,
+   "Entidad_Federativa": "Colima",
+   "Tasa_de_ocupación_infantil": 14.3
+ },
+ {
+   "Periodo": 2013,
+   "Entidad_Federativa": "Chiapas",
+   "Tasa_de_ocupación_infantil": 10.87
+ },
+ {
+   "Periodo": 2013,
+   "Entidad_Federativa": "Chihuahua",
+   "Tasa_de_ocupación_infantil": 3.09
+ },
+ {
+   "Periodo": 2013,
+   "Entidad_Federativa": "Distrito Federal",
+   "Tasa_de_ocupación_infantil": 4.97
+ },
+ {
+   "Periodo": 2013,
+   "Entidad_Federativa": "Durango",
+   "Tasa_de_ocupación_infantil": 9.35
+ },
+ {
+   "Periodo": 2013,
+   "Entidad_Federativa": "Guanajuato",
+   "Tasa_de_ocupación_infantil": 13.23
+ },
+ {
+   "Periodo": 2013,
+   "Entidad_Federativa": "Guerrero",
+   "Tasa_de_ocupación_infantil": 13.86
+ },
+ {
+   "Periodo": 2013,
+   "Entidad_Federativa": "Hidalgo",
+   "Tasa_de_ocupación_infantil": 7.6
+ },
+ {
+   "Periodo": 2013,
+   "Entidad_Federativa": "Jalisco",
+   "Tasa_de_ocupación_infantil": 10.26
+ },
+ {
+   "Periodo": 2013,
+   "Entidad_Federativa": "Mexico",
+   "Tasa_de_ocupación_infantil": 5.71
+ },
+ {
+   "Periodo": 2013,
+   "Entidad_Federativa": "Michoacan",
+   "Tasa_de_ocupación_infantil": 10.95
+ },
+ {
+   "Periodo": 2013,
+   "Entidad_Federativa": "Morelos",
+   "Tasa_de_ocupación_infantil": 7.54
+ },
+ {
+   "Periodo": 2013,
+   "Entidad_Federativa": "Nayarit",
+   "Tasa_de_ocupación_infantil": 12.7
+ },
+ {
+   "Periodo": 2013,
+   "Entidad_Federativa": "Nuevo Leon",
+   "Tasa_de_ocupación_infantil": 6.44
+ },
+ {
+   "Periodo": 2013,
+   "Entidad_Federativa": "Oaxaca",
+   "Tasa_de_ocupación_infantil": 11.74
+ },
+ {
+   "Periodo": 2013,
+   "Entidad_Federativa": "Puebla",
+   "Tasa_de_ocupación_infantil": 13.64
+ },
+ {
+   "Periodo": 2013,
+   "Entidad_Federativa": "Queretaro",
+   "Tasa_de_ocupación_infantil": 4.24
+ },
+ {
+   "Periodo": 2013,
+   "Entidad_Federativa": "Quintana Roo",
+   "Tasa_de_ocupación_infantil": 9.97
+ },
+ {
+   "Periodo": 2013,
+   "Entidad_Federativa": "San Luis Potosi",
+   "Tasa_de_ocupación_infantil": 9.18
+ },
+ {
+   "Periodo": 2013,
+   "Entidad_Federativa": "Sinaloa",
+   "Tasa_de_ocupación_infantil": 9.53
+ },
+ {
+   "Periodo": 2013,
+   "Entidad_Federativa": "Sonora",
+   "Tasa_de_ocupación_infantil": 7.7
+ },
+ {
+   "Periodo": 2013,
+   "Entidad_Federativa": "Tabasco",
+   "Tasa_de_ocupación_infantil": 11.48
+ },
+ {
+   "Periodo": 2013,
+   "Entidad_Federativa": "Tamaulipas",
+   "Tasa_de_ocupación_infantil": 7.24
+ },
+ {
+   "Periodo": 2013,
+   "Entidad_Federativa": "Tlaxcala",
+   "Tasa_de_ocupación_infantil": 8.09
+ },
+ {
+   "Periodo": 2013,
+   "Entidad_Federativa": "Veracruz",
+   "Tasa_de_ocupación_infantil": 6.92
+ },
+ {
+   "Periodo": 2013,
+   "Entidad_Federativa": "Yucatan",
+   "Tasa_de_ocupación_infantil": 8.39
+ },
+ {
+   "Periodo": 2013,
+   "Entidad_Federativa": "Zacatecas",
+   "Tasa_de_ocupación_infantil": 11.94
+ }
+]
+}
